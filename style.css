@@ -19,11 +19,18 @@
 
 /* basic styles for black background and crosshair cursor */
 body {
-	background: #000;
+	background: #fff;
 	margin: 0;
 }
 
 canvas {
 	cursor: crosshair;
 	display: block;
+}
+#hinh{
+	width: 500px;
+    height: 300px;
+    position: absolute;
+    left: 20%;
+    top: 20%;
 }
